@@ -1,5 +1,8 @@
 _repo: English-spelling-and-spelling-reform_70179
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70179-h/images/cover.jpg
 creator:
   author:
     agent_name: Lounsbury, Thomas Raynesford
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8694
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Lounsbury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70179#English-spelling-and-spelling-reform
 gutenberg_issued: '2023-03-01'
 identifiers:
   gutenberg: '70179'
